@@ -1,3 +1,4 @@
+console.log('hellop');
 import sum from './sum';
 import './image_viewer';
 
